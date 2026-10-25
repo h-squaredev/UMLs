@@ -1,6 +1,6 @@
 # UML
 
-Algumas UMLs disciplina **Engenharia de Software** (Ciência da Computação, UFMT).
+Algumas UMLs da disciplina **Engenharia de Software** (Ciência da Computação, UFMT).
 
 ## Conteúdo
 
